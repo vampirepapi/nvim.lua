@@ -18,6 +18,7 @@
 * [ ] Explore nvim and add more IDE like features.
 * [ ] Refactor config (75%)
   * [ ] Refactor plugin.lua
+  * [ ] Copy to local register some time doesnt works
   * [ ]  Add more plugins for ease
 * [ ] Tweak statusline // change to lualine
 * [ ] Debugger Support
